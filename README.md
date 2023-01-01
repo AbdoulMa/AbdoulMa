@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/Mastodon-6364ff?style=for-the-badge&logo=mastodon&logoColor=white"/>
   </a>
 </div>
+  
+<img src="https://komarev.com/ghpvc/?username=AbdoulMa&style=flat-square&color=blue" alt=""/>
 
 I am **Abdoul Madjid**. 
 
