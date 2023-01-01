@@ -1,3 +1,4 @@
+<div align="center"> 
 ### Hi Data mates 👋
 
 <div id="badges">
@@ -26,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him/his
 <!-- - ⚡ Fun fact: ... -->
 
+</div>
