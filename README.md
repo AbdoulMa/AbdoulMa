@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: contact@abdoulblog.com 
 - 😄 Pronouns: He/him/his
 <!-- - ⚡ Fun fact: ... -->
+---
 
 ## :hammer_and_wrench: Languages and Tools 
 
@@ -48,5 +49,12 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R Studio" alt="R Studio" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-
 </div>
+
+---
+
+## :fire: My Stats
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdoulma)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
