@@ -1,5 +1,6 @@
-<div align="center"> 
-### Hi Data mates 👋
+<div align="center">
+  
+## Hi Data mates 👋
 
 <div id="badges">
   <a href="https://twitter.com/issa_madjid">
