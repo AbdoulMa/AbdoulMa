@@ -13,6 +13,7 @@
 
 I am **Abdoul Madjid**. 
 
+</div>
 I am a rookie fullstack Developer in the Dijon Area, France. I am graduated from University of Burgundy, France with a Master Degree in Databases & Artificial Intelligence.
 
 I love talking about Data Science, Data Wrangling, analyzing and visualizing. I am also interested about Systems Programming, Forecasting, Data Modeling, Tennis, Basketball, Travels and Foods 🍝 (particularly Empanadas, Pastries & Desserts).
@@ -28,4 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him/his
 <!-- - ⚡ Fun fact: ... -->
 
-</div>
+
