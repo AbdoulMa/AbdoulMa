@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: ... -->
 ---
 
-## :hammer_and_wrench: Languages and Tools 
+<h2 align="center">  Languages and Tools </h2>
 
-<div>
+<div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -47,16 +47,17 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R Studio" alt="R Studio" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-## :fire: My Stats
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=abdoulma" alt="GitHub Streak" />
 </div>
+
+<br> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulma&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
